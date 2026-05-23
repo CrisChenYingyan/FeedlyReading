@@ -42,6 +42,13 @@ POST markAsRead 清空全部子源
 
 同时注册为全局插件：`feedlyreading-skills@local-desktop-app-uploads`
 
+## GitHub 仓库
+
+| 仓库 | URL | 说明 |
+|------|-----|------|
+| 主项目 | https://github.com/CrisChenYingyan/FeedlyReading | 完整项目，含 CLAUDE.md、SKILL.md、README、settings.json |
+| Skill 独立包 | https://github.com/CrisChenYingyan/FeedlyReadingSkill | 仅含 Skill，供他人直接安装使用 |
+
 ## Feedly API 操作方式（首选）
 
 ### Token 提取步骤
