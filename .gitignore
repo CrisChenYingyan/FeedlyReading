@@ -1,0 +1,6 @@
+# Personal settings (contains local permissions and cached tokens)
+.claude/settings.local.json
+
+# Temporary API data files
+feedly_unread.json
+*.tmp
